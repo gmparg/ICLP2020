@@ -1,0 +1,8 @@
+eq    :: eq
+dc    :: dc
+ec    :: ec
+po    :: po
+tpp   :: tppi
+ntpp  :: ntppi
+tppi  :: tpp
+ntppi :: ntpp
